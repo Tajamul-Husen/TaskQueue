@@ -1,0 +1,6 @@
+/.vs
+TaskQueue.sln
+TaskQueue.vcxproj
+TaskQueue.vcxproj.filters
+TaskQueue.vcxproj.user
+x64/
